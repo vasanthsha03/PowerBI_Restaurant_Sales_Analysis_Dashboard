@@ -91,6 +91,8 @@ Restaurant performance benchmarking
 
 Revenue optimization strategies
 
+Data-driven decision-making
+
 ## 📊 Dashboard Preview
 
  ## SUMMARY
@@ -104,5 +106,3 @@ Revenue optimization strategies
 
  ## MONTHLY
  ![Restaurant Sales Analysis Dashboard](SALES4.png)
-
-Data-driven decision-making
