@@ -20,8 +20,6 @@ Average Order Value (AOV) performance
 
 Location-based demand patterns
 
-Without centralized reporting, strategic decisions become slow and inefficient.
-
 ## 📊 Key Metrics
 
 💰 Total Revenue: 50.02M
@@ -79,9 +77,7 @@ Data Modeling
 
 Data Cleaning
 
-Bing Maps Integration
-
-## 📌 Project Outcome
+## 📌 Dashboard Outcome
 
  ## This dashboard enables:
 
